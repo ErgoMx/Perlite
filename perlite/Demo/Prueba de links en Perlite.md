@@ -1,0 +1,1 @@
+La ambiguedad pude estar contenida en un [[Caja de Notas (Zettelkasten|repositorio]]/repositorio.md) como es el caso de los [[Filosofia/Siete Habitos/Siete Hábitos de la Gente Altamente Efectiva]] que le gusta leer [[Libros populares entre los políticos que aspiran a comprender el comportamiento humano]]
