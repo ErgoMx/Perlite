@@ -63,7 +63,7 @@ $parsedown = new Parsedown;
 $parsedown->setMarkupEscaped(true);
 ```
 
-Beware that this still allows users to insert unsafe scripting vectors, such as links like `[[javascript:alert(1|xss]])`.
+Beware that this still allows users to insert unsafe scripting vectors, such as links like `[xss](javascript:alert(1))`.
 
 ### Questions
 

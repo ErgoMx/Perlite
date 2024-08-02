@@ -3,12 +3,12 @@
 
 Image with a custom size
 
-![[background.png|300x300]]
+![300x300](background.png)
 
 
 Image with a alternate text and size
 
-![[background.png|This is a description|100]]
+![This is a description|100](background.png)
 
 ## External images
 
