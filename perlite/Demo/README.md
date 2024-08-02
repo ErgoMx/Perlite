@@ -1,4 +1,4 @@
-El lugar en internet de donde viene el escrito que estas leyendo se llama [Repositorio](https://es.wikipedia.org/wiki/Repositorio -contenido_digital-)
+El lugar en internet de donde viene el escrito que estas leyendo se llama [Repositorio](https://es.wikipedia.org/wiki/Repositorio_-contenido_digital-)
 *(si quieres saber más, sigue el link, solo toca la palabra "Repositorio")* y tiene como propósito servir como medio de comunicación entre nosotros.
 
 Esta separado en carpetas, las cuales como comunidad, representan grandes temas de nuestro interés particular, por tanto, si quieres compartir algo, se pude poner aquí. 
