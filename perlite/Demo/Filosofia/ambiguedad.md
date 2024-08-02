@@ -13,7 +13,7 @@ stage:
 [ambiguo, gua](https://dle.rae.es/ambiguo#:~:text=ambiguo%2C%20gua) *(Real Academia de la Lengua Española)*
 1. adj. Dicho especialmente del lenguaje: Que puede entenderse de varios modos o admitir distintas interpretaciones y dar, por consiguiente, motivo a dudas, incertidumbre o confusión.
 
-**Propiedad de ambiguo** [ *Refuta argumentos falaces*](obsidian://advanced-uri?vault=Philosophy&filepath=Documentos%252FNotas%2520de%2520Videos%252FMedia%2520Note%2520-%2520Refuta%2520argumentos%2520falaces%2520-%2520Dra.%2520Ana%2520Minecan.md)
+**Propiedad de ambiguo** [ *Refuta argumentos falaces*](https://www.youtube.com/watch?v=1SMnVSvxm-k)
 [04:50](https://www.youtube.com/watch?v=1SMnVSvxm-k&t=291#t=04:50.96) *. . .  lo ambiguo es aquello que se . . .*
 
 ***¿Qué es exactamente lo ambiguo?***
