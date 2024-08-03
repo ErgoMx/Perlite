@@ -1,5 +1,5 @@
-El lugar en internet de donde viene el escrito que estas leyendo se llama [Repositorio](https://es.wikipedia.org/wiki/Repositorio_(contenido_digital))
-*(si quieres saber más, sigue el link, solo toca la palabra "Repositorio")* y tiene como propósito servir como medio de comunicación entre nosotros.
+El lugar en internet de donde viene el escrito que ahora estas leyendo se llama [[../REPOSITORIO/Caja de Notas -Zettelkasten-/repositorio|repositorio]]
+*(si quieres saber más, sigue el link, solo toca la palabra "repositorio")* y tiene como propósito servir como medio de comunicación entre nosotros.
 
 Esta separado en carpetas, las cuales como comunidad, representan grandes temas de nuestro interés particular, por tanto, si quieres compartir algo, se pude poner aquí. 
 De este modo podemos retomar y/o profundizar los temas  que platicamos en las reuniones o cuando viajamos juntos y que se ponen buenas las pláticas.

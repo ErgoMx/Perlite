@@ -1,6 +1,6 @@
 # Perlite
   
-![[latest by date|GitHub release (latest by date|[latest by date)]]]])) ![GitHub](https://img.shields.io/github/license/secure-77/perlite) ![GitHub last commit](https://img.shields.io/github/last-commit/secure-77/Perlite)
+![[latest by date)](https://img.shields.io/github/v/release/secure-77/perlite|GitHub release (latest by date)]] ![GitHub](https://img.shields.io/github/license/secure-77/perlite) ![GitHub last commit](https://img.shields.io/github/last-commit/secure-77/Perlite)
 
 
 A web based markdown viewer optimized for [Obsidian](https://obsidian.md/) Notes

@@ -9,12 +9,12 @@ services:
       - HIDE_FOLDERS=docs,private,trash
       - LINE_BREAKS=true
       - ABSOLUTE_PATHES=false
-      - ALLOWED_FILE_LINK_TYPES=pdf,mp4
-      - DISABLE_POP_HOVER=false
+      - ALLOWED_FILE_LINK_TYPES=pdf,mp4,epub
+      - DISABLE_POP_HOVER=true
       - SHOW_TOC=true
       - SHOW_LOCAL_GRAPH=true
       - HOME_FILE=Leeme
-      - FONT_SIZE=20
+      - FONT_SIZE=15
       - HTML_SAFE_MODE=true
       - TEMP_PATH=/tmp
       - SITE_TITLE=REPOSITORIO
@@ -29,7 +29,7 @@ services:
       - SITE_GITHUB=
     volumes:
       - ./perlite:/var/www/perlite
-      - ./perlite/Demo:/var/www/perlite/Demo:ro
+      - ./perlite/REPOSITORIO:/var/www/perlite/REPOSITORIO:ro
 
   web:
     build:
@@ -40,7 +40,7 @@ services:
       - 80:80 
     volumes:
       - ./perlite:/var/www/perlite
-      - ./perlite/Demo:/var/www/perlite/Demo:ro   
+      - ./perlite/REPOSITORIO:/var/www/perlite/REPOSITORIO:ro   
     depends_on:
       - perlite
 
