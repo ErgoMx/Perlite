@@ -11,8 +11,10 @@ El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de Stephen R. Covey ha 
 
 
 
-Raices de la Efectividad
-<iframe title="7H 02 Raíces de la Efectividad" src="https://www.youtube.com/embed/1u7XldBKBEE?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="width: 100%; height: 100%; aspect-ratio: 16 / 9;"></iframe>
+Raíces de la Efectividad
+```vid
+https://www.youtube.com/watch?v=1u7XldBKBEE&list=PL5NqlopYG0g_MyuMoa1toJ_1gJXyy2PxI&index=1
+```
 
 
 ## I. Paradigmas y Principios
