@@ -12,14 +12,13 @@ El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de Stephen R. Covey ha 
 
 
 Raíces de la Efectividad
-```vid
-https://www.youtube.com/watch?v=1u7XldBKBEE&list=PL5NqlopYG0g_MyuMoa1toJ_1gJXyy2PxI&index=1
-```
-
+![[../../Documentos/Imagenes/7 Hábitos img/7H Covey.jpeg]]
+https://www.youtube.com/watch?v=1u7XldBKBEE
 
 ## I. Paradigmas y Principios
 
-<iframe title="7H - 00.10 - Principios Fundamentales - I - Paradigmas y Espejo Social" src="https://www.youtube.com/embed/ccHl10Zi-ic?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
+![[../../Documentos/Imagenes/7 Hábitos img/7H Covey 2.jpeg]]
+https://www.youtube.com/watch/ccHl10Zi-ic
 
 Covey aborda el tema de los paradigmas y principios en el primer capítulo de su libro con el objeto de destacar cuán importante es estar dispuesto a cambiar la forma en la que vemos el mundo, mientras basamos nuestras acciones en principios sólidos. Con esto, el autor busca proporcionar un marco conceptual que permita alcanzar una efectividad duradera y alinear nuestras acciones con valores fundamentales y universales.
 
