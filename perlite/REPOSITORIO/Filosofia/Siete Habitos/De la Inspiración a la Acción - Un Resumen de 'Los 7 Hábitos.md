@@ -9,8 +9,10 @@ readingTime: 14 min
 ---
 ![[../../Documentos/Imagenes/7 Hábitos img/7 Hábitos Imagen.png]]
 
+*(tiempo lectura del texto: 14 min, video: 34:09 min)*
+
 ![[../../Documentos/Imagenes/7 Hábitos img/Stephen Covey.jpg]]
-El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de [Stephen R. Covey](Stephen%20R.%20Covey) ha dejado una huella significativa en el mundo del desarrollo personal y profesional desde su publicación. Covey presenta un enfoque integral y atemporal para el crecimiento personal, destacando la importancia de los principios éticos y los hábitos positivos para lograr la efectividad en todas las áreas de la vida. *(tiempo lectura del texto: 14 min, video: 34:09 min)*
+El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de [Stephen R. Covey](Stephen%20R.%20Covey) ha dejado una huella significativa en el mundo del desarrollo personal y profesional desde su publicación. Covey presenta un enfoque integral y atemporal para el crecimiento personal, destacando la importancia de los principios éticos y los hábitos positivos para lograr la efectividad en todas las áreas de la vida. 
 ![[../../Documentos/Imagenes/7 Hábitos img/Parte A Introduccion.png]]
 
 ▼ ver enlace ▼
