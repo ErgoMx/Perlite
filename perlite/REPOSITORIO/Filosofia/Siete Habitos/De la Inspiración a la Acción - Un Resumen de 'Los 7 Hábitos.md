@@ -1,28 +1,29 @@
 ---
+title: 'De la Inspiración a la Acción: Un Resumen de "Los 7 Hábitos"'
 link: https://www.linkedin.com/pulse/de-la-inspiraci%C3%B3n-acci%C3%B3n-un-resumen-los-7-h%C3%A1bitos-juan-manuel-fleitas-kmqqe/
 byline: Juan Manuel Fleitas
 date: 2023-12-31T17:38
 excerpt: El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de Stephen R. Covey ha dejado una huella significativa en el mundo del desarrollo personal y profesional desde su publicación.
-slurped: 2024-08-08T14:40
-title: 'De la Inspiración a la Acción: Un Resumen de "Los 7 Hábitos"'
+readingTime: 14 min
 ---
 ![[../../Documentos/Imagenes/7 Hábitos img/7 Hábitos Imagen.png]]
+
 El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de Stephen R. Covey ha dejado una huella significativa en el mundo del desarrollo personal y profesional desde su publicación. Covey presenta un enfoque integral y atemporal para el crecimiento personal, destacando la importancia de los principios éticos y los hábitos positivos para lograr la efectividad en todas las áreas de la vida.
 
 
+[Raíces de la Efectividad](https://www.youtube.com/watch?v=1u7XldBKBEE)
+▼ ver enlace ▼
+![[../../Documentos/Imagenes/7 Hábitos img/youthumb_1u7XldBKBEE_default.png]]
 
-Raíces de la Efectividad
-![[../../Documentos/Imagenes/7 Hábitos img/7H Covey.jpeg]]
-https://www.youtube.com/watch?v=1u7XldBKBEE
 
 ## I. Paradigmas y Principios
-
-![[../../Documentos/Imagenes/7 Hábitos img/7H Covey 2.jpeg]]
-https://www.youtube.com/watch/ccHl10Zi-ic
-
 Covey aborda el tema de los paradigmas y principios en el primer capítulo de su libro con el objeto de destacar cuán importante es estar dispuesto a cambiar la forma en la que vemos el mundo, mientras basamos nuestras acciones en principios sólidos. Con esto, el autor busca proporcionar un marco conceptual que permita alcanzar una efectividad duradera y alinear nuestras acciones con valores fundamentales y universales.
 
  Conceptos como las éticas de la personalidad y del carácter, las etapas de desarrollo, la victoria privada y pública, el continuum de la madurez y la identificación de factores claves para alcanzar la efectividad, son expuestos por Covey como antesala a la descripción detallada de los siete hábitos, la cual es presentada en los capítulos sucesivos.
+ 
+[Paradigmas y Espejo Social](https://www.youtube.com/watch?v=ccHl10Zi-ic)
+▼ ver enlace ▼
+![[../../Documentos/Imagenes/7 Hábitos img/Paradigmas y espejo.png]]
 
 ### La personalidad y la ética del carácter
 
@@ -71,8 +72,8 @@ La renovación es el propósito del hábito 7: afila la sierra, el cual se refie
 <iframe title="7H 03 Continuo de Madurez" src="https://www.youtube.com/embed/UWuE9NEEeAc?feature=oembed" height="150" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.33333 / 1; width: 100%; height: 100%;"></iframe>
 
 El continuum de la madurez
-![[../../Documentos/Imagenes/7 Hábitos img/El Continuo de Madurez.png]]
 
+![[El Continuo de Madurez.png]]
 El paradigma de los siete hábitos
 
 En el modelo de madurez continua, propuesto por Covey, las etapas de la dependencia y la independencia son necesarias, más la interdependencia es la clave para el éxito y la efectividad a largo plazo.
@@ -102,11 +103,13 @@ Este concepto destaca la importancia de estos logros personales, y a menudo no r
 Covey resalta la importancia de la proactividad, y establece que el Ser proactivo significa tomar la responsabilidad de nuestras vidas y decisiones. Covey argumenta que las personas altamente efectivas no se ven como víctimas de las circunstancias; en cambio, reconocen que tienen el poder de elegir sus respuestas ante cualquier situación. La proactividad es la base para el cambio y la mejora personal.
 
 Este concepto de ser proactivos, no solo se refiere a tomar la iniciativa, sino también considera asumir la responsabilidad de nuestras elecciones. Covey introduce la idea del círculo de preocupación y el círculo de influencia, en donde el círculo de preocupación abarca las cosas sobre las que nos preocupamos pero no podemos controlar directamente, y el círculo de influencia incluye las cosas sobre las que tenemos control y podemos afectar.
-![[../../Documentos/Imagenes/7 Hábitos img/Circulo de Influencia - Preocupacion.png]]
+
+![[Circulo de Influencia - Preocupacion.png]]
 Espacio abarcado por ambos círculos: el de Preocupación y el de Influencia
 
 Ser proactivo implica enfocarse en el círculo de influencia, lo que aumenta nuestra capacidad de manejar y cambiar situaciones.
-![[../../Documentos/Imagenes/7 Hábitos img/Cambio de los circulos de Influencia - Preocupacion.png]]
+
+![[Cambio de los circulos de Influencia - Preocupacion.png]]
 Foco proactivo
 
 ### Hábito 2: Comienza con un Fin en Mente
@@ -116,7 +119,8 @@ Este hábito se centra en la importancia de establecer metas claras basadas en n
 Para ello, Covey nos insta a escribir o establecer un enunciado de nuestra misión personal, el cual comience en el mismo centro de nuestro círculo de influencia, ese centro compuesto por nuestros paradigmas más básicos (la lente a través de la cual vemos el mundo) y desde allí, enfocar nuestros esfuerzos para ampliar nuestro circulo de influencia y alcanzar mayores resultados.
 
 Covey indica que lo que haya en el centro de nuestra vida será lo que defina nuestra fuente de seguridad, guía, sabiduría y poder, y también lo que nos permitirá expandir nuestro circulo de influencia e influir significativamente en la efectividad de todos los aspectos de nuestras vidas.
-![[../../Documentos/Imagenes/7 Hábitos img/Expansión del Circulo de Influencia.png]]
+
+![[Expansión del Circulo de Influencia.png]]
 Expansión del círculo de Influencia (trabajo de CP)
 
 Covey también compara nuestra capacidad de autoconciencia con una brújula que nos guía hacia nuestro "norte verdadero" y nos ayuda a detectar nuestros talentos singulares y nuestras propias áreas de contribución, a fin de tomar decisiones alineadas con nuestros objetivos a largo plazo.
@@ -126,7 +130,7 @@ Comenzar con un fin en mente no solo se refiere a las metas profesionales, sino 
 ### Hábito 3: Pon Primero lo Primero
 
 Este hábito se centra en la gestión del tiempo y la priorización efectiva. Covey introduce la matriz de administración del tiempo, una herramienta que clasifica las tareas en cuadrantes según su importancia y urgencia. El hábito Pon Primero lo Primero nos anima a centrarnos en las actividades importantes, pero no necesariamente urgentes (cuadrante II), ya que estas contribuyen a nuestros objetivos a largo plazo.
-![[../../Documentos/Imagenes/7 Hábitos img/Matriz de la administración del tiempo.png]]
+![[Matriz de la administración del tiempo.png]]
 Matriz de la administración del tiempo
 
 Covey enfatiza la importancia de equilibrar la productividad con la efectividad, asegurándonos de que nuestras acciones estén alineadas con nuestros valores y metas fundamentales. También expande el concepto de administración del tiempo para incluir la administración de nuestras vidas en general y destaca la importancia de equilibrar las dimensiones físicas, mentales, sociales/emocionales y espirituales de nuestra vida para lograr una efectividad integral.
@@ -142,11 +146,11 @@ El concepto de victoria pública destaca la importancia de llevar el desarrollo 
 El cuarto hábito se centra en una mentalidad de Ganar/Ganar, que implica buscar soluciones beneficiosas para todas las partes involucradas en una situación. Covey argumenta que esta mentalidad es fundamental para construir relaciones efectivas y duraderas. En contraste, las mentalidades de Ganar/Perder o Perder/Ganar pueden llevar a conflictos y relaciones insostenibles.
 
 Covey afirma que el principio de Ganar/Ganar es fundamental para el éxito en todas nuestras interacciones, y abarca cinco dimensiones interdependientes de la vida. Empieza con el Carácter, y a través de las Relaciones fluye en Acuerdos. Se cultiva en un ambiente en el que la estructura y los Sistemas se basan en Ganar/Ganar, mas también supone un proceso adecuado, pues no es posible alcanzar fines Ganar/Ganar con medios Gano/Pierdes o Pierdo/Ganas.
-![[../../Documentos/Imagenes/7 Hábitos img/5 Dimensiones en Ganar - Ganar.png]]
+![[5 Dimensiones en Ganar - Ganar.png]]
 Diagrama de las cinco dimensiones de Ganar/ganar
 
 Covey también indica que muchas personas piensan en términos dicotómicos de "esto o lo otro", y creen que, si una persona es amable, no puede ser ruda. Sin embargo, Ganar/Ganar es amable y rudo a la vez. Duplica en rudeza a Gano/Pierdes, pues para recurrir a Ganar/Ganar no sólo se debe ser amable, sino también valiente. No sólo debe experimentar empatía, sino también confianza en sí mismo. No ha de ser sólo considerado y sensible, sino también tener mucho coraje. Lograr ese equilibrio entre Coraje y Consideración es la esencia de la madurez real y fundamental para el Ganar/Ganar.
-![[../../Documentos/Imagenes/7 Hábitos img/Paradigma Ganar - Ganar.png]]
+![[Paradigma Ganar - Ganar.png]]
 Alto coraje y alta consideración son esenciales en el paradigma Ganar/Ganar
 
 La mentalidad de Ganar/Ganar se basa en la creencia de que hay suficiente para todos y que el éxito no necesita lograrse a expensas de los demás. Covey destaca la importancia de la integridad y la madurez emocional en la búsqueda de soluciones mutuamente beneficiosas.
@@ -172,7 +176,7 @@ El sexto hábito se centra en la sinergia, que Covey define como el principio de
 Covey argumenta que la sinergia es solo posible en escenarios donde el nivel de comunicación entre los miembros del grupo es de alta confianza. Solo cuando los miembros del equipo presentan un alto nivel de confianza entre sí, es posible evadir las actitudes defensivas y auto protectoras que solo se centran en Gano/Pierdo o Pierdo/Gano, y las interacciones diplomáticas, meramente transaccionales, que para evadir el conflicto sacrifican la creatividad y se cierran a nuevas posibilidades.
 
 Relacionada entre la confianza y los diferentes niveles de comunicación
-![[../../Documentos/Imagenes/7 Hábitos img/Relación confianza cooperación.png]]
+![[Relación confianza cooperación.png]]
 El autor indica que la sinergia significa que 1 + 1 puede ser igual a 8, 16 o incluso 1600, y que la posición sinérgica de alta confianza produce soluciones mejores que cualquiera de las originalmente, principalmente porque están basadas en propuestas creativas construidas sin restricción alguna por los miembros del equipo.
 
 Este hábito se relaciona con la idea de la diversidad y la integración de perspectivas para lograr resultados innovadores. Covey argumenta que la sinergia es un aspecto clave de la efectividad en equipos y en la resolución de problemas complejos.
@@ -186,7 +190,8 @@ Covey indica que el hábito Afila la Sierra es fundamental para llevar a cabo un
 ### Hábito 7: Afila la Sierra
 
 El séptimo y último hábito, descrito en este libro, se refiere al mantenimiento y la mejora continua de nuestras capacidades físicas, mentales, emocionales y espirituales. Covey utiliza la metáfora de "afilar la sierra" para ilustrar la importancia de renovarnos regularmente. Este hábito destaca la necesidad de equilibrar la renovación con la producción, reconociendo que nuestra efectividad se ve afectada positivamente cuando dedicamos tiempo a mejorar nuestras capacidades.
-![[../../Documentos/Imagenes/7 Hábitos img/Afilar la Sierra.png]]
+![[../2 Documentos/Imagenes/7 Hábitos img/Afilar la Sierra.png]e
+
 Las cuatro dimensiones en donde debemos afilar la sierra
 
 Afilar la sierra implica el autocuidado en todas las dimensiones de nuestra vida. Covey argumenta que el cuidado de nuestro cuerpo, nuestra mente, nuestras relaciones y nuestro espíritu es esencial para mantener un rendimiento óptimo a largo plazo.
