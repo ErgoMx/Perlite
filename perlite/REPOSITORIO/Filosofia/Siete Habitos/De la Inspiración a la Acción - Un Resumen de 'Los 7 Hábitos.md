@@ -14,7 +14,7 @@ El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de [Stephen R. Covey](S
 ![[../../Documentos/Imagenes/7 Hábitos img/Parte A Introduccion.png]]
 
 ▼ ver enlace ▼
-[Principios Fundamentales](https://www.youtube.com/watch?v=p2tECjgoDnI) (4:16 min)
+[Principios Fundamentales](https://www.youtube.com/watch?v=p2tECjgoDnI) *(4:16 min)*
 
 ## I. Paradigmas y Principios
 
@@ -24,7 +24,7 @@ Covey aborda el tema de los paradigmas y principios en el primer capítulo de su
  
 ![[../../Documentos/Imagenes/7 Hábitos img/Paradigmas y espejo.png]]
 ▼ ver enlace ▼
-[Paradigmas y Espejo Social](https://www.youtube.com/watch?v=ccHl10Zi-ic)
+[Paradigmas y Espejo Social](https://www.youtube.com/watch?v=ccHl10Zi-ic) *(10:41 min)*
 
 ### La personalidad y la ética del carácter
 
@@ -38,7 +38,7 @@ En resumen, Covey destaca la importancia de cultivar la ética del carácter par
 
 ![[../../Documentos/Imagenes/7 Hábitos img/Caracter y Personalidad.png]]
 ▼ ver enlace ▼
-[Raíces de la Efectividad](https://www.youtube.com/watch?v=1u7XldBKBEE) (8:08 min)
+[Raíces de la Efectividad](https://www.youtube.com/watch?v=1u7XldBKBEE) *(8:08 min)*
 
 
 ### Panorama general de los siete hábitos
@@ -75,7 +75,8 @@ La renovación es el propósito del hábito 7: afila la sierra, el cual se refie
 
 ![[../../Documentos/Imagenes/7 Hábitos img/Continuo de madurez.png]]
 ▼ ver enlace ▼
-[El Continuum de Madurez](https://www.youtube.com/watch?v=UWuE9NEEeAc&t=54s)
+[El Continuum de Madurez](https://www.youtube.com/watch?v=UWuE9NEEeAc&t=54s) *(10:54 min)*
+
 ![[../../Documentos/Imagenes/7 Hábitos img/El Continuo de Madurez.png]]
 El paradigma de los siete hábitos
 
