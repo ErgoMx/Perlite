@@ -14,7 +14,7 @@ stage:
 1. adj. Dicho especialmente del lenguaje: Que puede entenderse de varios modos o admitir distintas interpretaciones y dar, por consiguiente, motivo a dudas, incertidumbre o confusión.
 
 **Propiedad de ambiguo** [ *Refuta argumentos falaces*](https://www.youtube.com/watch?v=1SMnVSvxm-k)
-[04:50](https://www.youtube.com/watch?v=1SMnVSvxm-k&t=291#t=04:50.96) *. . .  lo ambiguo es aquello que se . . .*
+[](https://www.youtube.com/watch?v=1SMnVSvxm-k&t=291#t=04:50.96) *. . .  lo ambiguo es aquello que se . . .*
 
 ***¿Qué es exactamente lo ambiguo?***
 R: Lo ambiguo es aquello que se puede entender de varios modos o admitir distintas interpretaciones lo cual inevitablemente lo convierte en motivo de dudas incertidumbre o confusión. 

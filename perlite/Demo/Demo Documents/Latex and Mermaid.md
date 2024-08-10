@@ -16,7 +16,7 @@ Simple Flow Chart
 
 ```mermaid
 flowchart LR
-    id1[[This is the text in the box1]]
+    id1[This is the text in the box1](This%20is%20the%20text%20in%20the%20box1)
 ```
 
 

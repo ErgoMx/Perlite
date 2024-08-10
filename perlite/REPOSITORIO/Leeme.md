@@ -1,4 +1,4 @@
-El lugar en internet de donde viene el escrito que ahora estas leyendo se llama [[Caja de Notas -Zettelkasten-/repositorio|repositorio]]
+El lugar en internet de donde viene el escrito que ahora estas leyendo se llama [repositorio](Caja%20de%20Notas%20-Zettelkasten-/repositorio.md)
 y tiene como propósito servir como medio de comunicación entre nosotros.
 *(si quieres saber más, sigue el link, tan solo tienes que tocar la palabra "repositorio" que esta coloreada más arriba)* 
 
@@ -10,4 +10,4 @@ Establecer un banco de conocimiento común es parte fundamental de todo emprendi
 La intención de todo este esfuerzo es evitar distraernos en temas que por ahora no sean relevantes para nosotros, y que de esta manera, nuestro quehacer cotidiano este enfocado en el proyecto político y de educación que queremos alcanzar para contribuir activa y profundamente en la 4ta Transformación de nuestro amado México.
 
 Atte: El Equipo Central 
-*([[Caja de Notas -Zettelkasten-/resiliencia|Resiliencia]] en acción por el bien de todos)*
+*([Resiliencia](Caja%20de%20Notas%20-Zettelkasten-/resiliencia.md) en acción por el bien de todos)*

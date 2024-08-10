@@ -1,6 +1,6 @@
 # Perlite
   
-![[latest by date)](https://img.shields.io/github/v/release/secure-77/perlite|GitHub release (latest by date)]] ![GitHub](https://img.shields.io/github/license/secure-77/perlite) ![GitHub last commit](https://img.shields.io/github/last-commit/secure-77/Perlite)
+![GitHub release (latest by date)](latest%20by%20date)) ![GitHub](https://img.shields.io/github/license/secure-77/perlite) ![GitHub last commit](https://img.shields.io/github/last-commit/secure-77/Perlite)
 
 
 A web based markdown viewer optimized for [Obsidian](https://obsidian.md/) Notes
@@ -38,7 +38,7 @@ If you want to discuss Perlite you can join the [Perlite Discord Server](https:/
 
 
 ## Install
-Please make sure you read the [[https://github.com/secure-77/Perlite/wiki/03---Perlite-Settings#required-settings]] first!
+Please make sure you read the [](https://github.com/secure-77/Perlite/wiki/03---Perlite-Settings#required-settings) first!
 
 You can download the latest release from github or git clone the project and use docker.
 
@@ -56,7 +56,7 @@ Please check the [wiki](https://github.com/secure-77/Perlite/wiki), here you wil
 
 
 ## Security
-- The [[https://github.com/erusev/parsedown#security]] from Parsedown is active, but I would not recommend to allow untrusted user input.
+- The [](https://github.com/erusev/parsedown#security) from Parsedown is active, but I would not recommend to allow untrusted user input.
 - You should prevent that the .md files are direct accessible via the browser (only the php engine need access to it) or at least make sure that the md files will be downloaded and not be rendered by browser
 - You should prevent that the metadata.json file is direct accessible via the browser (only the php engine need access to it). The extracted metadata.json contains the whole obsidian structure, so this file could be sensitive if you plan to exclude some files or folders from Perlite. However, the parsing is done by the php engine and it checks for every path if the file really exists in the provided vault, so files you excluded from the vault will also not be visible in the graph, but they are still present in the metadata.json. This is why you should prevent access to it.
 
