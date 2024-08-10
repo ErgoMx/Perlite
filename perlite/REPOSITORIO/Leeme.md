@@ -10,4 +10,5 @@ Establecer un banco de conocimiento común es parte fundamental de todo emprendi
 La intención de todo este esfuerzo es evitar distraernos en temas que por ahora no sean relevantes para nosotros, y que de esta manera, nuestro quehacer cotidiano este enfocado en el proyecto político y de educación que queremos alcanzar para contribuir activa y profundamente en la 4ta Transformación de nuestro amado México.
 
 Atte: El Equipo Central 
-*([[Resiliencia]] en acción por el bien de todos)*
+*([[Caja de Notas -Zettelkasten-/resiliencia|resiliencia]] en acción por el bien de todos)*
+
