@@ -2,7 +2,7 @@
 media: https://www.youtube.com/watch?v=AGApXp7uSGI
 ---
 
-![[../../Documentos/Imagenes/YouThumbs/youthumb_AGApXp7uSGI_medium.png]]
+![[../../../Documentos/Imagenes/YouThumbs/youthumb_AGApXp7uSGI_medium.png]]
 [La izquierda sin medios de comunicación, desaparece](https://www.youtube.com/watch?v=AGApXp7uSGI)
 
 La realidad actual es tan compleja que a veces cuesta trabajo comprenderla y aceptarla, por eso Sabina Berman se ha dado a la tarea de entrevistar a los personajes clave que nos muestren los entrecruzamientos de los hechos, al tiempo que explican sus causas y consecuencias.
