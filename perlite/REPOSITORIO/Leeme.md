@@ -1,4 +1,4 @@
-El lugar en internet de donde viene el escrito que ahora estas leyendo se llama [repositorio](Caja%20de%20Notas%20-Zettelkasten-/repositorio.md)
+El lugar en internet de donde viene el escrito que ahora estas leyendo se llama [[Caja de Notas -Zettelkasten-/repositorio|repositorio]]
 y tiene como propósito servir como medio de comunicación entre nosotros.
 *(si quieres saber más, sigue el link, tan solo tienes que tocar la palabra "repositorio" que esta coloreada más arriba)* 
 
