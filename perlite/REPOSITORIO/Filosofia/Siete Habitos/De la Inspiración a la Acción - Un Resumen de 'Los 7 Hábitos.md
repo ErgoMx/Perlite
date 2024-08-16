@@ -9,12 +9,12 @@ readingTime: 14 min
 ---
 ![[../../Documentos/Imagenes/7 Hábitos img/7 Hábitos Imagen.png]]
 
-*(tiempo lectura del texto: 14 min, video: 34:09 min)*
+*(tiempo lectura del texto: 14 min, video: 38:40 min)*
 
 ![[../../Documentos/Imagenes/7 Hábitos img/Stephen Covey.jpg]]
 El libro "Los 7 Hábitos de la Gente Altamente Efectiva" de [Stephen R. Covey](https://es.wikipedia.org/wiki/Stephen_Covey) ha dejado una huella significativa en el mundo del desarrollo personal y profesional desde su publicación. Covey presenta un enfoque integral y atemporal para el crecimiento personal, destacando la importancia de los principios éticos y los hábitos positivos para lograr la efectividad en todas las áreas de la vida. 
-![[../../Documentos/Imagenes/7 Hábitos img/Parte A Introduccion.png]]
 
+![[../../Documentos/Imagenes/7 Hábitos img/Parte A Introduccion.png]]
 ▼ ver enlace ▼
 [Principios Fundamentales](https://www.youtube.com/watch?v=p2tECjgoDnI) *(4:16 min)*
 
@@ -98,6 +98,9 @@ La idea de estos dos factores es crucial porque establece un marco fundamental p
 
 Covey destaca la importancia de entender que la efectividad no es simplemente una cuestión de habilidades o conocimientos técnicos (P), también está profundamente ligada a la disposición y la actitud personal para llevar a cabo las tareas que produzcan estos resultados (CP).
 
+![[../../Documentos/Imagenes/7 Hábitos img/C Y CP.png]]
+▼ ver enlace ▼
+[La Gallina y los Huevos de Oro](https://www.youtube.com/watch?v=n2MVKHq4Nh0)
 ## II. Victoria Privada
 
 El concepto de victoria privada se refiere a los logros personales que ocurren en el ámbito privado e interno de una persona. Estas victorias no son necesariamente reconocidas o visibles para los demás, pero son fundamentales para el desarrollo personal y la efectividad a largo plazo.
@@ -109,14 +112,13 @@ Este concepto destaca la importancia de estos logros personales, y a menudo no r
 Covey resalta la importancia de la proactividad, y establece que el Ser proactivo significa tomar la responsabilidad de nuestras vidas y decisiones. Covey argumenta que las personas altamente efectivas no se ven como víctimas de las circunstancias; en cambio, reconocen que tienen el poder de elegir sus respuestas ante cualquier situación. La proactividad es la base para el cambio y la mejora personal.
 
 Este concepto de ser proactivos, no solo se refiere a tomar la iniciativa, sino también considera asumir la responsabilidad de nuestras elecciones. Covey introduce la idea del círculo de preocupación y el círculo de influencia, en donde el círculo de preocupación abarca las cosas sobre las que nos preocupamos pero no podemos controlar directamente, y el círculo de influencia incluye las cosas sobre las que tenemos control y podemos afectar.
-![[../../Documentos/Imagenes/7 Hábitos img/Circulo de Influencia - Preocupacion.png]]
 
+![[../../Documentos/Imagenes/7 Hábitos img/Circulo de Influencia - Preocupacion.png]]
 Espacio abarcado por ambos círculos: el de Preocupación y el de Influencia
 
 Ser proactivo implica enfocarse en el círculo de influencia, lo que aumenta nuestra capacidad de manejar y cambiar situaciones.
 
 ![[../../Documentos/Imagenes/7 Hábitos img/Cambio de los circulos de Influencia - Preocupacion.png]]
-
 Foco proactivo
 
 ### Hábito 2: Comienza con un Fin en Mente
@@ -126,6 +128,7 @@ Este hábito se centra en la importancia de establecer metas claras basadas en n
 Para ello, Covey nos insta a escribir o establecer un enunciado de nuestra misión personal, el cual comience en el mismo centro de nuestro círculo de influencia, ese centro compuesto por nuestros paradigmas más básicos (la lente a través de la cual vemos el mundo) y desde allí, enfocar nuestros esfuerzos para ampliar nuestro circulo de influencia y alcanzar mayores resultados.
 
 Covey indica que lo que haya en el centro de nuestra vida será lo que defina nuestra fuente de seguridad, guía, sabiduría y poder, y también lo que nos permitirá expandir nuestro circulo de influencia e influir significativamente en la efectividad de todos los aspectos de nuestras vidas.
+
 ![[../../Documentos/Imagenes/7 Hábitos img/Expansión del Circulo de Influencia.png]]
 Expansión del círculo de Influencia (trabajo de CP)
 
@@ -137,7 +140,6 @@ Comenzar con un fin en mente no solo se refiere a las metas profesionales, sino 
 
 Este hábito se centra en la gestión del tiempo y la priorización efectiva. Covey introduce la matriz de administración del tiempo, una herramienta que clasifica las tareas en cuadrantes según su importancia y urgencia. El hábito Pon Primero lo Primero nos anima a centrarnos en las actividades importantes, pero no necesariamente urgentes (cuadrante II), ya que estas contribuyen a nuestros objetivos a largo plazo.
 ![[../../Documentos/Imagenes/7 Hábitos img/Matriz de la administración del tiempo.png]]
-
 Matriz de la administración del tiempo
 
 Covey enfatiza la importancia de equilibrar la productividad con la efectividad, asegurándonos de que nuestras acciones estén alineadas con nuestros valores y metas fundamentales. También expande el concepto de administración del tiempo para incluir la administración de nuestras vidas en general y destaca la importancia de equilibrar las dimensiones físicas, mentales, sociales/emocionales y espirituales de nuestra vida para lograr una efectividad integral.
@@ -181,8 +183,9 @@ La empatía es crucial para construir relaciones sólidas y resolver conflictos.
 El sexto hábito se centra en la sinergia, que Covey define como el principio de que "el todo es mayor que la suma de sus partes". La sinergia implica trabajar en colaboración con otros para crear soluciones que sean superiores a los esfuerzos individuales. Covey destaca la importancia de aprovechar las diferencias y fortalezas individuales para crear algo nuevo y valioso.
 
 Covey argumenta que la sinergia es solo posible en escenarios donde el nivel de comunicación entre los miembros del grupo es de alta confianza. Solo cuando los miembros del equipo presentan un alto nivel de confianza entre sí, es posible evadir las actitudes defensivas y auto protectoras que solo se centran en Gano/Pierdo o Pierdo/Gano, y las interacciones diplomáticas, meramente transaccionales, que para evadir el conflicto sacrifican la creatividad y se cierran a nuevas posibilidades.
-![[../../Documentos/Imagenes/7 Hábitos img/Relación confianza cooperación.png]]
+
 Relacionada entre la confianza y los diferentes niveles de comunicación
+![[../../Documentos/Imagenes/7 Hábitos img/Relación confianza cooperación.png]]
 El autor indica que la sinergia significa que 1 + 1 puede ser igual a 8, 16 o incluso 1600, y que la posición sinérgica de alta confianza produce soluciones mejores que cualquiera de las originalmente, principalmente porque están basadas en propuestas creativas construidas sin restricción alguna por los miembros del equipo.
 
 Este hábito se relaciona con la idea de la diversidad y la integración de perspectivas para lograr resultados innovadores. Covey argumenta que la sinergia es un aspecto clave de la efectividad en equipos y en la resolución de problemas complejos.
